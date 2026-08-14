@@ -1,0 +1,5 @@
+.vscode/
+
+# Client emails and working notes: kept inside the workspace so they can be
+# opened from the editor, ignored so they can never reach the public site.
+_drafts/
