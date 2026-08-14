@@ -65,7 +65,9 @@
   ];
 
   var BACKGROUNDS=[
-    {k:'infra',n:'Network infrastructure'},
+    {k:'infra',n:'Connectivity &amp; network infrastructure'},
+    {k:'safety',n:'Safety &amp; security'},
+    {k:'build',n:'Construction &amp; maintenance'},
     {k:'technical',n:'Technical or a trade'},
     {k:'service',  n:'Retail or customer service'},
     {k:'office',   n:'Office / admin'},
