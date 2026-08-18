@@ -3,3 +3,10 @@
 # Client emails and working notes: kept inside the workspace so they can be
 # opened from the editor, ignored so they can never reach the public site.
 _drafts/
+
+# Development database, client notes and the local config: never in git.
+.claude/
+lib/config.local.php
+*.sqlite
+*.sqlite-journal
+private/
